@@ -16,21 +16,11 @@
 <!--  put social contacts here -->
 ### Connect with me:
 
-[<img align="left" alt="Twit" width="22px" src="twitter.png">](https://twitter.com/john_mckirdy)
+[<img align="left" alt="twitter" width="22px" src="twitter.png">](https://twitter.com/john_mckirdy)
+[<img align="left" alt="linkedIn" width="22px" src="linkedin.png">](https://www.linkedin.com/in/john-mckirdy-a342861b8/?trk=people-guest_people_search-card&originalSubdomain=ca)
+[<img align="left" alt="youTube" width="22px" src="youtube.png">](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber)
+[<img align="left" alt="facebook" width="22px" src="facebook.png">](https://www.facebook.com/johnsblog.org)
 
-
-</br>
-
-
-<!-- [Work with me on LinkedIn](https://www.linkedin.com/in/john-mckirdy-a342861b8/)
-
-[Learn with me on YouTube](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber)
-
-[Follow/DM me on Twitter](https://twitter.com/home)
-
-[FB Business page](https://www.facebook.com/johnsblog.org)
-
-[<img align="left" alt="JohnsGit" width="22px" scr="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 <br/>
 
