@@ -8,7 +8,11 @@
 - 👷 I'm from a Construction and🌱Forestry🌳 background - then transitioned into programming as that has always been an unfufilled passion of mine.
 - 👨‍🏫 I like to teach what I've learned to others.
 - 📖 I'm currently learning Javascript (+HTML/CSS) at a deeper level.
-- ✔️ 2020 Goals: finish 3 JavaScript books(HeadFirst JS, Eloquent JS, You Don't know JS Yet) do all the projects, internalize the knowledge, and build a few Stand-Out 🤩 Apps.
+- ✔️ 2020 Goals: finish 3 JavaScript books:</br> 
+    - [x] HeadFirst JS - O'Reilly
+    - [x] Eloquent JS - Marijn Haverbeke
+    - [ ] You Don't Know JS Yet Series - Kyle Simpson</br>
+    - Do all the projects to internalize the knowledge, and build a few Stand-Out 🤩 Apps of my own.
 - 🎸 Hobbies & Interests: I love practicing HEAVY METAL on guitar, MMA(mixed martial arts), Fantasy & Sci-fi genre, Manga/Anime/Japanese culture, Video Games from the 90's, and More Coding.
 
 
@@ -34,7 +38,7 @@ My favorite projects I've built so far would be...
 
 - Currently working on a CLI app where a virtual butler helps you schedule your goals and to-dos. Made with Nodejs.
 
-**I am building out repos for these projects... 
+**I am building out repos for these projects...</br> 
 See README files in repos below** 👇
 
 <br/>
