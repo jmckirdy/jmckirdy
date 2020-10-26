@@ -12,7 +12,7 @@
     - [x] HeadFirst JS - O'Reilly
     - [x] Eloquent JS - Marijn Haverbeke
     - [ ] You Don't Know JS Yet Series - Kyle Simpson</br>
-    - Do all the projects to internalize the knowledge, and build a few Stand-Out 🤩 Apps of my own.
+    - Internalize this knowledge, and build a few Stand-Out 🤩 Apps of my own.
 - 🎸 Hobbies & Interests: I love practicing HEAVY METAL on guitar, MMA(mixed martial arts), Fantasy & Sci-fi genre, Manga/Anime/Japanese culture, Video Games from the 90's, and More Coding.
 
 
@@ -34,7 +34,7 @@ My favorite projects I've built so far would be...
 
 - A 'text scraper' that runs though a pdf or website and uses RegEx to scrape out phone numbers, emails, and names. Then formats them neatly and places them in a new directory. Made with Python.
 
-- Built a fun little text style adventure game where your choices lead you through a myserious forest in search of treasure. You must overcome obstacles and recieve a secret password from a fair maiden in order to open the treasure chest at the end. Made with Python
+- A fun little text-based adventure game where your choices lead you through a myserious forest in search of hidden treasure. You must overcome obstacles and retrieve a secret password from a fair maiden in order to unlock the treasure chest at the end. Made with Python
 
 - Currently working on a CLI app where a virtual butler helps you schedule your goals and to-dos. Made with Nodejs.
 
