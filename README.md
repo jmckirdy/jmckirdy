@@ -34,8 +34,8 @@ My favorite projects I've built so far would be...
 
 - Currently working on a CLI app where a virtual butler helps you schedule your goals and to-dos. Made with Nodejs.
 
-### I am building out repos for these projects... 
-### See README files in repos below 👇
+#### I am building out repos for these projects... 
+#### See README files in repos below 👇
 
 <br/>
 <br/>
