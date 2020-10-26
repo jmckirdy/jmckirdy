@@ -12,7 +12,6 @@
 - 🎸 Hobbies & Interests: I love practicing HEAVY METAL on guitar, MMA(mixed martial arts), Fantasy & Sci-fi genre, Manga/Anime/Japanese culture, Video Games from the 90's, and More Coding.
 
 
-
 <!--  put social contacts here -->
 ### Connect with me:
 
@@ -20,13 +19,23 @@
 [<img align="left" alt="linkedIn" width="22px" src="linkedin.png">](https://www.linkedin.com/in/john-mckirdy-a342861b8/?trk=people-guest_people_search-card&originalSubdomain=ca)
 [<img align="left" alt="youTube" width="22px" src="youtube.png">](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber)
 [<img align="left" alt="facebook" width="22px" src="facebook.png">](https://www.facebook.com/johnsblog.org)
-
-
-<br/>
-
-### Projects and Accomplishments
+</br>
 
 <!-- projects obviously -->
+### Projects and Accomplishments
+
+My favorite projects I've built so far would be...
+
+- A 'Battleships' web-game with a Model/View/Controller architecture. Made with JS/HTML/CSS.
+
+- A 'text scraper' that runs though a pdf or website and uses RegEx to scrape out phone numbers, emails, and names. Then formats them neatly and places them in a new directory. Made with Python.
+
+- Built a fun little text style adventure game where your choices lead you through a myserious forest in search of treasure. You must overcome obstacles and recieve a secret password from a fair maiden in order to open the treasure chest at the end. Made with Python
+
+- Currently working on a CLI app where a virtual butler helps you schedule your goals and to-dos. Made with Nodejs.
+
+### I am building out repos for these projects... 
+### See README files in repos below 👇
 
 <br/>
 <br/>
