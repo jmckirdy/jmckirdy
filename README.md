@@ -5,9 +5,9 @@
 ## I'm a Family-Man, Problem-Solver, Coder, and Teacher!
 
 - 📺 I'm currently working on a [JavaScript Course](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) on YouTube.
-- 👷 I'm from a Construction and🌱Forestry🌳 background - then transitioned into programming as that has always been an unfufilled passion of mine.
 - 👨‍🏫 I like to teach what I've learned to others.
 - 📖 I'm currently learning Javascript (+HTML/CSS) at a deeper level.
+- 👷 I'm from a Construction and🌱Forestry🌳 background - then transitioned into programming as that has always been an unfufilled passion of mine.
 - ✔️ 2020 Goals: finish 3 JavaScript books:</br> 
     - [x] HeadFirst JS - O'Reilly
     - [x] Eloquent JS - Marijn Haverbeke
