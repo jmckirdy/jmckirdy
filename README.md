@@ -4,15 +4,16 @@
 
 ## I'm a Family-Man, Problem-Solver, Coder, and Teacher!
 
-- 📺 I'm currently working on a [JavaScript Course](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) on YouTube.
+- 📺 I'm a Content Creator on [YouTube](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) and [Instagram](https://www.instagram.com/code4luddites/).
 - 👨‍🏫 I like to teach what I've learned to others.
-- 📖 I'm currently learning Javascript (+HTML/CSS) at a deeper level.
-- 👷 I'm from a Construction and🌱Forestry🌳 background - then transitioned into programming as that has always been an unfufilled passion of mine.
-- ✔️ 2020 Goals: finish 3 JavaScript books:</br> 
-    - [x] HeadFirst JS - O'Reilly
-    - [x] Eloquent JS - Marijn Haverbeke
+- 📖 I'm currently learning PHP and MySQL at a deeper level.
+- ✍🏻 I continue practicing Javascript + HTML/CSS.
+- 👷 I'm from a Construction and 🌳 Forestry background - I know how to work hard; I am now more focused on working <u>Smart</u>.
+- ✔️ 2021 Goals:</br> 
+    - [ ] Get better at PHP
+    - [ ] Get better at SQL
     - [ ] You Don't Know JS Yet Series - Kyle Simpson</br>
-    - Internalize this knowledge, and build a few Stand-Out 🤩 Apps of my own.
+    - [ ] Build and Deploy a few awesome Apps I have been working on. 🤩 
 - 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, the fantasy genre, japanese stuff, WarCraft 1-2-3, and learning to be a better programmer.
 
 
