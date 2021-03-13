@@ -13,7 +13,7 @@
     - [x] Eloquent JS - Marijn Haverbeke
     - [ ] You Don't Know JS Yet Series - Kyle Simpson</br>
     - Internalize this knowledge, and build a few Stand-Out 🤩 Apps of my own.
-- 🎸 Hobbies & Interests: I love practicing HEAVY METAL on guitar, MMA(mixed martial arts), Fantasy & Sci-fi genre, Manga/Anime/Japanese culture, Video Games from the 90's, and More Coding.
+- 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, the fantasy genre, japanese stuff, WarCraft 1-2-3, and learning to be a better programmer.
 
 
 <!--  put social contacts here -->
