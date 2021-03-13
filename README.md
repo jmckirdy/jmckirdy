@@ -2,13 +2,14 @@
 
 ### Hi there, I'm John - aka [code4Luddites](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber) 
 
-## I'm a Problem-Solver, Programmer, and Teacher!
+## Problem-Solver, Programmer, Mentor/Mentee
 
-- 📺 I'm a Content Creator on [YouTube](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) and [Instagram](https://www.instagram.com/code4luddites/).
-- 👨‍🏫 I like to teach what I've learned to others.
 - 📖 I'm currently learning PHP and MySQL at a deeper level.
 - ✍🏻 I continue practicing Javascript + HTML/CSS.
-- 👷 I'm from a Construction and 🌳 Forestry background - I know how to work hard; I am now more focused on working <u>Smart</u>.
+- 📺 I'm a Content Creator on [YouTube](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) and [Instagram](https://www.instagram.com/code4luddites/).
+- 👨‍🏫 I teach what I've learned to others.
+- 👷 I'm from a Construction and 🌳 Forestry background.
+- 💯 I know how to work hard, but I focus on working <u>Smart</u>.
 - ✔️ 2021 Goals:</br> 
     - [ ] Get better at PHP.
     - [ ] Get better at SQL.
@@ -29,7 +30,8 @@
 
 ### Skills
 
-- Javascript, Nodejs, PHP, SQL, Python, CSS, HTML, relevant libraries and modules. 
+- Javascript, Nodejs, PHP, SQL, Python, CSS, HTML, CLI's, Relevant libraries and modules. 
+- People skills, soft skills, sales skills.
 
 <!-- projects obviously -->
 ### Projects and Accomplishments
