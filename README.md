@@ -10,13 +10,7 @@
 - 👨‍🏫 I teach what I've learned to others.
 - 👷 I'm from a Construction and 🌳 Forestry background.
 - 💯 I know how to work hard, but I focus on working <u>Smart</u>.
-- ✔️ 2021 Goals:</br> 
-    - [ ] Get better at PHP.
-    - [ ] Get better at SQL.
-    - [ ] Read 'You Don't Know JS Yet' by Kyle Simpson.
-    - [ ] Create a programming language.
-    - [ ] Finish and deploy a few apps I have been working on. 🤩 
-- 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, fantasy genre, japanese stuff, WarCraft 1-2-3, and learning to be a better programmer.
+- 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, fantasy genre, japanese stuff, old computer/console games, and learning to be a better programmer.
 
 
 <!--  put social contacts here -->
