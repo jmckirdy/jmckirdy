@@ -4,13 +4,12 @@
 
 ## Problem-Solver, Programmer, Mentor/Mentee
 
-- 📖 I'm currently learning PHP and MySQL at a deeper level.
-- ✍🏻 I continue practicing Javascript + HTML/CSS.
-- 📺 I'm a Content Creator on [YouTube](https://www.youtube.com/channel/UCQFaF3k36gREt5hA7BmCjpQ?view_as=subscriber/) and [Instagram](https://www.instagram.com/code4luddites/).
-- 👨‍🏫 I teach what I've learned to others.
+- 📖 I love Data Driven Design.
+- ✍🏻 I continue to practice the basics (in several languages) but also appreciate how modern frameworks and software can do much of the heavy lifting for me.
+- 📺 I'm a Content Creator on [Instagram](https://www.instagram.com/code4luddites/) where I teach what I've learned to others.
 - 👷 I'm from a Construction and 🌳 Forestry background.
 - 💯 I know how to work hard, but I focus on working <u>Smart</u>.
-- 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, fantasy genre, japanese stuff, old computer/console games, and learning to be a better programmer.
+- 🎸 Hobbies & Interests: I love playing heavy metal on guitar, lifting weights, fantasy genre, japanese stuff and old video games.
 
 
 <!--  put social contacts here -->
@@ -41,8 +40,6 @@ My favorite projects I've built so far would be...
 - A 'Grocery Store' online storefront application with a back-end admin site. Shoppers can create an account, add items to cart, easily modify cart, and checkout. The store manager can add new products, new categories, process orders, and generate sales reports. Clean and fast database design. Made with PHP, MySQL, uses PHPmyAdmin.
 
 - A CLI app where a virtual butler helps schedule your goals and to-dos. Made with Nodejs.
-
-**Many of the projects I built locally and have not pushed to gitHub so that's why I have large empty spaces without nice green squares** 🟩🟩💀
 
 <br/>
 <br/>
