@@ -41,6 +41,3 @@ My favorite projects I've built so far would be...
 - A 'Grocery Store' online storefront application with a back-end admin site. Shoppers can create an account, add items to cart, easily modify cart, and checkout. The store manager can add new products, new categories, process orders, and generate sales reports. Clean and fast database design. Made with PHP, MySQL, uses PHPmyAdmin.
 
 - A CLI app where a virtual butler helps schedule your goals and to-dos. Made with Nodejs.
-
-<br/>
-<br/>
