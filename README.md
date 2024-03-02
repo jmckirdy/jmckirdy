@@ -9,7 +9,7 @@
 - 📺 I like to post on [Instagram](https://www.instagram.com/code4luddites/) where I talk/teach about what I'm learning.
 - 👷 I'm from a Trades and Forestry background.(I've planted over 1M trees by hand 🌳)
 - 💯 I know how to work hard, it's a pre-requisite to working <u>Smart</u>.
-- 🎸 Hobbies & Interests: Geetar-shredden, Weight-liftin, Dragon-riding fantasy nerd.
+- 🎸 Hobbies & Interests: Geetar-shredden, Weight-liftin, Dragon-riding, Fantasy-nerd.
 
 
 <!--  put social contacts here -->
