@@ -1,6 +1,6 @@
 <!-- Github Profile - project updates  -->
 
-### <img align="left" alt="wave" width="22px" src="wave.png"> Hi there, I'm John - Excelsior
+### <img align="left" alt="wave" width="22px" src="wave.gif"> Hi there, I'm John - Excelsior
 
 
 - I consider the data people use, the ways it can simplify their lives by creating something they need/want/desire.
