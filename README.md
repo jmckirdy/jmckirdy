@@ -5,6 +5,7 @@
 
 - I consider the data people use, the ways it can simplify their lives by creating something they need/want/desire.
 - I love learning new code syntax, but understand how frameworks and other software can do much the heavy lifting.
+- I love big-picture, architecture, dsa type stuff.
 
 <!--  put social contacts here -->
 
